@@ -1,0 +1,23 @@
+/* Targeted the class  */
+/* .bg-red {
+	background-color: red;
+} */
+
+/* Targeted the body */
+body {
+	background-color: violet;
+}
+
+/* Target Id in CSS */
+
+#header-text {
+	color: red;
+}
+
+.header-text {
+	color: #fff;
+}
+
+h1 {
+	color: blue;
+}
